@@ -1,1 +1,5 @@
-var image = $(img-thumbnail)
+
+
+$(".img-thumbnail").on("click" , function(){
+    $(this).toggleClass("enlarged")
+})
