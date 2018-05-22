@@ -1,0 +1,41 @@
+body{
+    min-width: 0.1em;
+    min-height: 0.1em;
+}
+.navbar{
+    margin-bottom:10px;
+    background-color:red;
+}
+
+.jumbotron{
+    background-color:#c4d9ee;
+}
+.meet{
+    padding : 25%;
+    text-align: center
+}
+#daveHill{
+    background: url(https://media2.fdncms.com/portmerc/imager/u/original/18963311/davehill.jpg);
+    background-size : 100% 100%;
+    
+   
+    background-repeat: no-repeat;
+}
+p{
+    color:white;
+}
+.navbar{
+    margin-bottom: 1px;
+}
+.picNames{
+    color: #c4d9ee;
+}
+#first{
+    height:90px;
+    
+}
+#firstJumbotron{
+    max-height: 100%;
+    padding:1%;
+}
+
