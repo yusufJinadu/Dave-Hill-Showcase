@@ -39,3 +39,10 @@ p{
     padding:1%;
 }
 
+.enlarged{
+    -webkit-transform:scale(2); /* or some other value */
+    transform:scale(2);
+    position:absolute;
+    z-index:10;
+
+}
