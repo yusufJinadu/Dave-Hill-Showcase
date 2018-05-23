@@ -1,6 +1,5 @@
 body{
-    min-width: 0.1em;
-    min-height: 0.1em;
+    background: linear-gradient( lightcyan,rgb(185, 162, 141), lightslategray)
 }
 
 
@@ -96,4 +95,17 @@ h3,h4{
 }
 .left{
     text-align:left;
+}
+.register-form{
+    display: none;
+}
+#form-card{
+    width:60%
+}
+.right{
+    text-align:right;
+}
+#form-card{
+    margin: 50px auto;
+    
 }
