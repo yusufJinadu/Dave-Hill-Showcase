@@ -109,3 +109,43 @@ h3,h4{
     margin: 50px auto;
     
 }
+
+
+
+body{
+    background: blueviolet;
+    font-family: lato;
+}
+#content{
+    text-align: center;
+    padding: 15%;
+    background: url(https://media2.fdncms.com/portmerc/imager/u/original/18963311/davehill.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position:center;
+    text-shadow: 0px 4px 3px rgb(43, 41, 41),
+                 0px 8px 13px rgb(126, 92, 92),
+                 0px 18px 23px rgb(51, 26, 26);
+
+    
+   
+}
+
+
+
+.abtDave{
+    color: rgb(197, 135, 135)
+}
+h1.abtDave{
+    font-weight:700;
+    font-size: 5em;
+}
+html{
+    height: 100%
+}
+.white{
+    color:white;
+    border-top : 1px solid white;
+    border-bottom : 1px solid black;
+    width:50%
+}
