@@ -96,7 +96,10 @@ h3,h4{
 .left{
     text-align:left;
 }
-.register-form{
+/*.register-form{
+    display: none;
+}*/
+.not-show{
     display: none;
 }
 #form-card{
